@@ -2,7 +2,7 @@
 
 > An enterprise-grade, Python-based pipeline for bulk document proofreading, semantic validation, and automated formatting using LLMs.
 
-![Project Demo](INSERT_YOUR_GIF_LINK_HERE)
+![Project Demo](docreview.mp4)
 
 ## 🎯 The Corporate Bottleneck
 Legal teams, HR departments, and administrative sectors waste countless hours manually reviewing thousands of internal documents, contracts, and reports. Surface-level grammar checkers fail to process files in bulk and lack contextual corporate tone adaptation.
